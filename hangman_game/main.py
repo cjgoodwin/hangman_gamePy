@@ -13,4 +13,4 @@
 
     # If user wins the game, print a win message and stop the loop from executing
 
-    # If user looses, print failing message and stop the loop from executing
+    # If user looses, print failing message and stop the loop from executing.
